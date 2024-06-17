@@ -1,15 +1,10 @@
 # SPRINT 1 - TECH MAHINDRA E FIAP
 
-Este projeto foi desenvolvido como parte da **Sprint 1** da disciplina de **Edge Computing & Computer Systems**, para os alunos do primeiro semestre de **Engenharia de Software da FIAP**. O objetivo principal dessa Sprint foi desenvolver uma solução IoT que fosse capaz de captar informações sobre a Fórmula E, transmitindo-as de maneira criativa e acessível, permitindo que pessoas de todas as idades e níveis de conhecimento sobre automobilismo se envolvam e se emocionem com a competição.
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://e-formula.news/files/e-formel/uploads/_NEWS/2023/12%20Dezember/Mahindra%20Livery/Mahindra-Livery-Formula-E-Season-2024.jpg" width="36.5%" alt="Carro Mahindra">
-  <img src="https://mms.businesswire.com/media/20210709005496/pt/890318/22/New_Tech_M_Logo_High-res_square.jpg" width="49%" style="margin-left:" auto; alt="Logo Tech Mahindra">
-</div>
+Este trabalho foi realizado como parte da **Sprint 1** da disciplina de **Edge Computing & Computer Systems**, direcionada aos alunos do primeiro semestre do curso de **Engenharia de Software da FIAP**. O principal objetivo desta Sprint foi criar uma solução IoT que pudesse coletar dados sobre a Fórmula E e transmiti-los de forma inovadora e fácil de entender, permitindo que pessoas de todas as idades e níveis de familiaridade com automobilismo possam se envolver e se empolgar com a competição.
 
 ## Descrição do Projeto
 
-O projeto consiste em um dispositivo integrado ao cockpit dos carros da Fórmula E, projetado para monitorar e alertar sobre condições adversas dentro do mesmo, tais como **temperatura, umidade e luminosidade**. Além disso, o sistema possui a funcionalidade de abrir automaticamente um compartimento de ventilação e resfriamento para melhorar as condições internas do veículo. Por meio desse dispositivo IoT integrado ao cockpit do piloto, informações cruciais são captadas e processadas em tempo real, garantindo a segurança e o conforto do piloto durante a corrida.
+O projeto envolve um dispositivo instalado no cockpit dos carros da Fórmula E, que monitora e alerta sobre condições desfavoráveis como temperatura, umidade e luminosidade. Além disso, o sistema pode ativar automaticamente um compartimento de ventilação e resfriamento para otimizar o ambiente interno do carro. Este dispositivo IoT, integrado ao cockpit do piloto, coleta e processa dados críticos em tempo real, garantindo a segurança e o conforto do piloto ao longo da corrida.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Formula-e-logo-championship_2023.svg/2560px-Formula-e-logo-championship_2023.svg.png" width="49%" style="margin-left: auto;" alt="Logo da FIA Fórmula E">
@@ -25,12 +20,12 @@ O projeto consiste em um dispositivo integrado ao cockpit dos carros da Fórmula
 
 ## Nosso Objetivo
 
-**Você sabia que um carro de Fórmula E pode chegar a temperaturas internas de até 60°C?** A segurança dos pilotos é de extrema importância em corridas de alta velocidade como a Fórmula E. Condições adversas dentro do cockpit, como altas temperaturas e umidade, podem afetar negativamente o desempenho do piloto e até mesmo colocar sua vida em risco. Portanto, a implementação de um sistema inteligente de monitoramento e controle é essencial para garantir um ambiente seguro e confortável durante a corrida.
+A segurança dos pilotos é uma prioridade em corridas de alta velocidade como a Fórmula E. Condições internas desfavoráveis, como calor extremo e alta umidade, podem comprometer o desempenho do piloto e até mesmo ameaçar sua vida. Portanto, é essencial implementar um sistema inteligente de monitoramento e controle para garantir um ambiente seguro e confortável durante as corridas.
 
 <br>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://tm.ibxk.com.br/2014/08/25/25151040365302.jpg?ims=1200x675" width="49%" style="margin-left: auto;" alt="Roda de um carro da Fórmula E superaquecendo">
+  <img src="https://hackaday.com/wp-content/uploads/2017/06/7814371488040041646.jpg?w=800" width="49%" style="margin-left: auto;" alt="Roda de um carro da Fórmula E superaquecendo">
 </div>
 
 ## Componentes
@@ -45,10 +40,6 @@ O projeto consiste em um dispositivo integrado ao cockpit dos carros da Fórmula
 - Um Arduino Uno R3 para controlar todos os componentes.
 
 <br>
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://cdn.awsli.com.br/600x700/980/980586/produto/181023040/kit-completo-arduino-na-maleta-cshawd.jpg" width="49%" style="margin-left: auto;" alt="Kit Arduino">
-</div>
 
 ## Instalação e Uso
 
